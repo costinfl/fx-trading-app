@@ -46,7 +46,7 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>1.18.2</version>
+			<version>1.18.20</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
@@ -66,13 +66,13 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-			<version>42.3.3</version>
+			<version>42.3.8</version>
 		</dependency>
 
 		<dependency>
 			<groupId>com.auth0</groupId>
 			<artifactId>java-jwt</artifactId>
-			<version>3.4.0</version>
+			<version>4.3.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -102,7 +102,7 @@
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-crypto</artifactId>
-			<version>5.5.3</version>
+			<version>5.5.8</version>
 		</dependency>
 
 
