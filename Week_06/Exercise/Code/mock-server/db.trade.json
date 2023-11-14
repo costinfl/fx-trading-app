@@ -153,6 +153,83 @@
       "notional": 555.23,
       "tenor": "3M",
       "date": 1536560103000
+    },
+    {
+      "username": "costin",
+      "primaryCcy": "EUR",
+      "secondaryCcy": "RON",
+      "rate": 1.3,
+      "action": "BUY",
+      "notional": 11111,
+      "tenor": "SP",
+      "date": 1699341737,
+      "id": 5235
+    },
+    {
+      "username": "costin",
+      "primaryCcy": "EUR",
+      "secondaryCcy": "RON",
+      "rate": 1.2,
+      "action": "SELL",
+      "notional": 100,
+      "tenor": "SP",
+      "date": 1699341748,
+      "id": 5236
+    },
+    {
+      "username": "costin",
+      "primaryCcy": "EUR",
+      "secondaryCcy": "RON",
+      "rate": 1.2,
+      "action": "SELL",
+      "notional": 11111,
+      "tenor": "SP",
+      "date": 1699341783,
+      "id": 5237
+    },
+    {
+      "username": "costin",
+      "primaryCcy": "RON",
+      "secondaryCcy": "USD",
+      "rate": 1.2,
+      "action": "SELL",
+      "notional": 2333,
+      "tenor": "1M",
+      "date": 1699341800,
+      "id": 5238
+    },
+    {
+      "username": "costin",
+      "primaryCcy": "EUR",
+      "secondaryCcy": "USD",
+      "rate": 1.3,
+      "action": "BUY",
+      "notional": 20000,
+      "tenor": "1M",
+      "date": 1699342049696,
+      "id": 5239
+    },
+    {
+      "username": "costin",
+      "primaryCcy": "RON",
+      "secondaryCcy": "USD",
+      "rate": 1.3,
+      "action": "BUY",
+      "notional": 444444,
+      "tenor": "3M",
+      "date": 1699342119085,
+      "id": 5240
+    },
+    {
+      "username": "costin",
+      "primaryCcy": "RON",
+      "secondaryCcy": "GBP",
+      "rate": 1.2,
+      "action": "SELL",
+      "notional": 5656565,
+      "tenor": "SP",
+      "date": 1699342159677,
+      "id": 5241
     }
   ]
 }
